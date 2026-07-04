@@ -11,6 +11,10 @@
 # production
 /build
 
+# local Prisma database files
+server/prisma/dev.db
+server/prisma/dev.db-journal
+
 # misc
 .DS_Store
 .env.local
